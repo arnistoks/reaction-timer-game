@@ -1,3 +1,5 @@
+![rtg](public/reaction-timer-game.gif "Reaction Timer Game")
+
 # reaction-timer-game
 
 ## Project setup
